@@ -24,7 +24,7 @@ github_username:  Korn1699
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
