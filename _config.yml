@@ -25,13 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mikedennis.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Korn1699
 instagram_username: korn1699
+twitter_username: korn1699
 #linkedin_username: mike-dennis-37596658
-
-minima:
-  social_links:
-    - title: Korn1699 on X
-      icon: x-twitter
-      url: "https://x.com/Korn1699"
 
 # Build settings
 markdown: kramdown
