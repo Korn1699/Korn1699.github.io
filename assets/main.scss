@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+/* Keep footer description alignment predictable across theme updates. */
+.site-footer .footer-col p {
+  text-align: left;
+}
+
+@media screen and (max-width: 600px) {
+  .site-footer .footer-col p {
+    text-align: center;
+  }
+}
