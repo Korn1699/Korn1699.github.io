@@ -1,1 +1,0 @@
-document.addEventListener('DOMContentLoaded', function(){var l=document.createElement('link');l.rel='stylesheet';l.href='/assets/overrides.css';document.head.appendChild(l);});
