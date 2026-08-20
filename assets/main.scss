@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "minima";
+/* @import "minima"; — disabled to avoid Sass import error in CI */
 
 /* Keep footer description alignment predictable across theme updates. */
 .site-footer .footer-col p {
