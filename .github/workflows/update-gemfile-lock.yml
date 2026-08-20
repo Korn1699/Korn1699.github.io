@@ -6,6 +6,9 @@ on:
       - update-gemfile-lock-ci
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   update-lock:
     runs-on: ubuntu-latest
